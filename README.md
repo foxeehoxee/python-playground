@@ -1,4 +1,4 @@
 # python-playground
-Just a sandbox for learnin' #muhPyPrinciples
+Just a sandbox for python stuff
 
 May or may not contain some half-baked little tidbits
